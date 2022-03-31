@@ -1,0 +1,18 @@
+body {
+    /* background: #05c46b; */
+    background: teal
+      no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 0;
+    text-transform: capitalize;
+    outline: none;
+  }
+  #title {
+    margin-bottom: 0;
+    color: crimson;
+    font-weight: bolder;
+    font-size: 45px;
+  }
